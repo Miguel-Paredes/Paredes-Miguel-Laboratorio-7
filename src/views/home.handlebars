@@ -1,0 +1,1 @@
+<h2>Página de inicio</h2>
